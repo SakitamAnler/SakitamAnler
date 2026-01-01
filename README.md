@@ -1,5 +1,14 @@
-## Hello GitHub Fans 👋
-[![Mail Badge](https://img.shields.io/badge/-2421103539@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2421103539@qq.com)](mailto:2421103539@qq.com)
+<!-- =============================== -->
+<!-- 👋 Intro Heading with Titles -->
+<!-- =============================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=F7F7F7&center=true&random=true&width=600&height=100&lines=Hi+I'm+SakitamAnler" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=200&size=40&duration=1000&pause=1000&color=F7F7F7&center=true&multiline=true&random=true&width=2000&height=300&lines=🤖+AI+%26+Deep+Learning+Enthusiast;🎓+Student+Passionate+About+ML;💡+Building+Intelligent+Solutions" />
+</p>
 
 ---
 
@@ -51,32 +60,6 @@
 - 💾 MySQL
 - 🐧 Linux
 - 💻 VS Code
-
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 📊 GitHub Stats -->
-<!-- =============================== -->
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakitamAnler&show_icons=true&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 8px 20px rgba(0, 245, 212, 0.3))';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakitamAnler&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 8px 20px rgba(255, 255, 255, 0.3))';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakitamAnler&layout=compact&theme=tokyonight" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.filter='drop-shadow(0 8px 20px rgba(255, 0, 245, 0.3))';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
-</p>
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
