@@ -53,13 +53,19 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash&perline=6" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit&perline=3" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,mysql,mongodb&perline=6" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&perline=5" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,vue,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,nodejs" />
 </p>
 
 ### 📚 Technology Breakdown
@@ -71,21 +77,22 @@
 - 🔧 C++
 - 📜 Bash
 
-**Backend & Frameworks:**
-- 🔥 TensorFlow & PyTorch (Deep Learning)
+**AI/ML & Deep Learning:**
+- 🔥 TensorFlow & PyTorch
 - 📊 Scikit-learn & NumPy & Pandas
-- 🌍 Vue.js & React
-- 📦 Node.js
-
-**AI/Creative Tools:**
 - 🎨 Stable Diffusion (Image Generation)
 - ⚙️ ComfyUI (AI Workflow)
 
-**Development Tools:**
+**Frontend & Backend:**
+- ⚛️ React & Vue.js
+- 🌍 HTML & CSS
+- 📦 Node.js
+
+**Database & Development:**
+- 💾 MySQL & MongoDB
 - 📓 Jupyter Notebook
 - 🗂️ GitHub & Git
 - 💻 VS Code
-- 💾 MySQL & MongoDB
 - 🐧 Linux
 
 <!-- =============================== -->
