@@ -12,15 +12,32 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<!-- =============================== -->
+<!-- About Section with GIF -->
+<!-- =============================== -->
 
-### I'm SakitamAnler
+<div align="left">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🚀 About Me</h3>
+        
+I'm **SakitamAnler**, a student passionate about **AI & Machine Learning**.
 
-- A student passionate about AI & Machine Learning.
-- 🌱 Focused on Artificial Intelligence and Deep Learning.
-- 💬 Ask me about AI, Machine Learning, and my projects on [2421103539@qq.com](mailto:2421103539@qq.com)
+- 🌱 Focused on Artificial Intelligence and Deep Learning
+- 💬 Ask me about AI, Machine Learning, and my projects  
+  📧 [2421103539@qq.com](mailto:2421103539@qq.com)
 - ⭐ Check out my projects on my homepage!
 - ⚡ Fun fact: Building AI models🤖
+
+**Let's connect and explore the world of AI together!**
+      </td>
+      <td width="50%" align="center">
+        <img alt="Coding GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
