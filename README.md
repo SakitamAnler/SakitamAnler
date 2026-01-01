@@ -52,47 +52,29 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Programming Languages -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash" />
 </p>
 
-<!-- AI/ML & Web Framework -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,vue,html,css" />
 </p>
 
-<!-- Database & Version Control -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,nodejs,jupyter" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter" />
 </p>
 
-<!-- IDEs & Editors -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,linux" />
+  <img src="https://skillicons.dev/icons?i=pycharm,visualstudio,nodejs,linux" />
 </p>
 
-<!-- AI Tools & Additional -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor-00D9FF?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Winsurf-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Winsurf" />
-  <img src="https://img.shields.io/badge/Claude%20Code-00A878?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/ComfyUI-612FD9?style=for-the-badge&logo=ai&logoColor=white" alt="ComfyUI" />
-  <img src="https://img.shields.io/badge/Stable%20Diffusion-FF5C7C?style=for-the-badge&logo=ai&logoColor=white" alt="Stable Diffusion" />
+  <img src="https://img.shields.io/badge/Cursor-00D9FF?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Winsurf-FF6B6B?style=flat-square&logo=code&logoColor=white" alt="Winsurf" />
+  <img src="https://img.shields.io/badge/Claude%20Code-00A878?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/ComfyUI-612FD9?style=flat-square&logo=ai&logoColor=white" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-FF5C7C?style=flat-square&logo=ai&logoColor=white" alt="Stable Diffusion" />
 </p>
-
-### 📚 Skills Summary
-
-| Category | Technologies |
-|----------|---------------|
-| **Languages** | Python, JavaScript, TypeScript, Java, C++, Bash |
-| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, NumPy, Pandas |
-| **Creative AI** | Stable Diffusion, ComfyUI |
-| **Frontend** | React, Vue.js, HTML, CSS |
-| **Backend** | Node.js, Django, Flask |
-| **Database** | MySQL, MongoDB |
-| **Tools** | VS Code, PyCharm, Visual Studio, Cursor, Winsurf, Claude Code |
-| **DevOps** | Git, GitHub, Linux, Jupyter |
 
 ---
 
