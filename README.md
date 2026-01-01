@@ -13,30 +13,27 @@
 ---
 
 <!-- =============================== -->
-<!-- About Section with GIF -->
+<!-- About Section with GIF - Centered -->
 <!-- =============================== -->
 
-<div align="left">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🚀 About Me</h3>
-        
-I'm **SakitamAnler**, a student passionate about **AI & Machine Learning**.
+<div align="center">
+  <img alt="Coding GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="300" style="margin: 20px 0;" />
+</div>
 
-- 🌱 Focused on Artificial Intelligence and Deep Learning
-- 💬 Ask me about AI, Machine Learning, and my projects  
-  📧 [2421103539@qq.com](mailto:2421103539@qq.com)
-- ⭐ Check out my projects on my homepage!
-- ⚡ Fun fact: Building AI models🤖
+<div align="center">
+  <h3>🚀 I'm SakitamAnler</h3>
+  
+  <p>
+    <strong>A student passionate about AI & Machine Learning</strong>
+  </p>
 
-**Let's connect and explore the world of AI together!**
-      </td>
-      <td width="50%" align="center">
-        <img alt="Coding GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="300" />
-      </td>
-    </tr>
-  </table>
+  - 🌱 Focused on Artificial Intelligence and Deep Learning
+  - 💬 Ask me about AI, Machine Learning, and my projects  
+  - 📧 [2421103539@qq.com](mailto:2421103539@qq.com)
+  - ⭐ Check out my projects on my homepage!
+  - ⚡ Fun fact: Building AI models🤖
+
+  **Let's connect and explore the world of AI together!**
 </div>
 
 ---
@@ -94,22 +91,6 @@ I'm **SakitamAnler**, a student passionate about **AI & Machine Learning**.
   <i>Random Dev Joke for You! 🎭</i><br><br>
   <img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%231a1b26&textColor=%237aa2f7&aColor=%23bb9af7&borderColor=%23bb9af7" alt="README Jokes">
 </div>
-
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 📅 Contribution Graph -->
-<!-- =============================== -->
-
-## 📅 Contribution Graph
-
-[![SakitamAnler's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakitamAnler&theme=dracula&hide_border=true)](https://github.com/SakitamAnler)
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
