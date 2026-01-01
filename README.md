@@ -61,20 +61,33 @@
 
 ## 🛠️ Tech Stack
 
+<!-- Programming Languages -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash" />
 </p>
 
+<!-- AI/ML & Web Framework -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,vue,html,css" />
 </p>
 
+<!-- Database & Version Control -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,nodejs,jupyter" />
 </p>
 
+<!-- IDEs & Editors -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nodejs" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,visualstudio,linux" />
+</p>
+
+<!-- AI Tools & Additional -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-00D9FF?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Winsurf-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Winsurf" />
+  <img src="https://img.shields.io/badge/Claude%20Code-00A878?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/ComfyUI-612FD9?style=for-the-badge&logo=ai&logoColor=white" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-FF5C7C?style=for-the-badge&logo=ai&logoColor=white" alt="Stable Diffusion" />
 </p>
 
 ### 📚 Technology Breakdown
@@ -99,11 +112,17 @@
 - 🌍 HTML & CSS
 - 📦 Node.js
 
-**Database & Development:**
+**Database & Version Control:**
 - 💾 MySQL & MongoDB
-- 📓 Jupyter Notebook
 - 🗂️ GitHub & Git
-- 💻 VS Code
+- 📓 Jupyter Notebook
+
+**IDEs & Development Tools:**
+- 💻 VS Code & Visual Studio
+- 🐍 PyCharm
+- 🖥️ Cursor (AI-Enhanced Editor)
+- 🌊 Winsurf (AI Coding)
+- 🤖 Claude Code
 - 🐧 Linux
 
 </div>
