@@ -1,44 +1,19 @@
-<!-- =============================== -->
-<!-- 👋 Intro Heading with Titles -->
-<!-- =============================== -->
+## Hello GitHub Fans 👋
+[![Mail Badge](https://img.shields.io/badge/-2421103539@qq.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:2421103539@qq.com)](mailto:2421103539@qq.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=F7F7F7&center=true&random=true&width=600&height=100&lines=Hi+I'm+SakitamAnler" />
-</p>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Single&weight=200&size=40&duration=1000&pause=1000&color=F7F7F7&center=true&multiline=true&random=true&width=2000&height=300&lines=🤖+AI+%26+Deep+Learning+Enthusiast;🎓+Student+Passionate+About+Machine+Learning;💡+Building+Intelligent+Solutions" />
-</p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<!-- =============================== -->
-<!-- 👁️ GitHub Profile View Counter -->
-<!-- =============================== -->
+### I'm SakitamAnler
 
-<p align="center">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=SakitamAnler&style=flat-square&color=22CCB2" style="transition: transform 0.3s ease, filter 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='drop-shadow(0 0 10px #22CCB2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='none';" />
-</p>
+- A student passionate about AI & Machine Learning.
+- 🌱 Focused on Artificial Intelligence and Deep Learning.
+- 💬 Ask me about AI, Machine Learning, and my projects on [2421103539@qq.com](mailto:2421103539@qq.com)
+- ⭐ Check out my projects on my homepage!
+- ⚡ Fun fact: Building AI models🤖
 
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🚀 About Me Section -->
-<!-- =============================== -->
-
-## 🚀 About Me
-
-I'm a passionate student focused on **Artificial Intelligence and Deep Learning**. I love exploring cutting-edge technologies in machine learning, neural networks, and data science. My goal is to build intelligent solutions that solve real-world problems and contribute to the AI community.
-
-- 🎓 **Student** with a keen interest in AI & ML technologies
-- 🤖 **Specialization**: Deep Learning, Machine Learning, and Data Analysis
-- 💬 **Let's Connect**: Feel free to reach out at [2421103539@qq.com](mailto:2421103539@qq.com)
-- 🔭 **Currently Exploring**: Advanced neural architectures and AI applications
-- ⚡ **Fun Fact**: I believe AI will revolutionize how we solve problems!
+---
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
@@ -152,47 +127,6 @@ I'm a passionate student focused on **Artificial Intelligence and Deep Learning*
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🏆 GitHub Trophies -->
-<!-- =============================== -->
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakitamAnler&theme=tokyonight&no-frame=false&margin-w=10" />
-</p>
-
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!-- =============================== -->
-<!-- 🔗 Social & Contact Links -->
-<!-- =============================== -->
-
-## 🔗 Let's Connect
-
-<p align="center">
-  <a href="mailto:2421103539@qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(209, 72, 54, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
-  </a>
-  <a href="https://github.com/SakitamAnler" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-2px)'; this.style.filter='drop-shadow(0 5px 15px rgba(24, 23, 23, 0.4))';" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='none';" />
-  </a>
 </p>
 
 <!-- =============================== -->
