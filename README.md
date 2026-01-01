@@ -53,27 +53,40 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,linux,git,github,jupyter,mysql,cpp,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,bash&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit&perline=3" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,mysql,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux&perline=5" />
+</p>
+
+### 📚 Technology Breakdown
 
 **Programming Languages:**
 - 🐍 Python (Primary)
+- 🌐 JavaScript & TypeScript
 - ☕ Java
 - 🔧 C++
 - 📜 Bash
 
-**AI/ML Frameworks:**
-- 🤖 TensorFlow & Keras
-- 🔥 PyTorch
-- 📊 Scikit-learn
-- 📈 NumPy & Pandas
+**Backend & Frameworks:**
+- 🔥 TensorFlow & PyTorch (Deep Learning)
+- 📊 Scikit-learn & NumPy & Pandas
+- 🌍 Vue.js & React
+- 📦 Node.js
 
-**Tools & Platforms:**
+**AI/Creative Tools:**
+- 🎨 Stable Diffusion (Image Generation)
+- ⚙️ ComfyUI (AI Workflow)
+
+**Development Tools:**
 - 📓 Jupyter Notebook
 - 🗂️ GitHub & Git
-- 💾 MySQL
-- 🐧 Linux
 - 💻 VS Code
+- 💾 MySQL & MongoDB
+- 🐧 Linux
 
 <!-- =============================== -->
 <!-- ✨ Divider -->
